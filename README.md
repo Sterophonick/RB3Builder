@@ -13,5 +13,5 @@ A simple script that will assemble a Rock Band 3 controller profile for RPCS3.
 - Vocals (Generic Controllers)
 
 # Usage
-- In Steam, you want to make sure that RB3 launches with this first.
+- In Steam, you want to make sure that RB3 launches with this first. Ex: `<path/to/create.sh> && <rpcs3/launch/with/file>`
 - Once you are done assigning what instruments you are using with this script, use Steam to set the controllers to the correct ports, Steam is just screwy.
