@@ -3,7 +3,7 @@ A simple script that will assemble a Rock Band 3 controller profile for RPCS3.
 
 # Setup
 - This is intended for use on a Steam Deck or otherwise with Steam Input. The profiles are configured to detect generic Xbox 360 controllers in their respective ports, which is what Steam Input does.
-- You will also need to configure the location of your RPCS3 executable and directory in `create.sh`.
+- You will also need to configure the location of your RPCS3 directory in `create.sh`.
 
 # Instrument Support
 - Xbox 360 Rock Band Guitars (Stratocaster, Hofner, etc)
